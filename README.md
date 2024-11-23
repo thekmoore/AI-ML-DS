@@ -14,15 +14,25 @@ This GitHub will serve as a portfolio of projects and concepts learned during my
 
 Data Science Projects
 Data wrangling, exploratory data analysis, and visualization.
+
 Statistical modeling and hypothesis testing.
+
 Machine Learning Models
+
 Supervised and unsupervised learning techniques.
+
 Feature engineering and model optimization.
+
 AI Applications
+
 Deep learning with TensorFlow and PyTorch.
+
 Natural Language Processing (NLP) projects.
+
 Computer vision and generative AI models.
+
 Capstone Projects
+
 Real-world case studies and solutions inspired by my coursework.
 
 💻 Tools & Technologies
@@ -36,7 +46,9 @@ Version Control: Git/GitHub
 📈 Journey Highlights
 
 🟢 Currently enrolled in the Post Graduate Program in AI & ML.
+
 🛠 Building projects that merge theoretical knowledge with practical applications.
+
 ✨ Passionate about sharing insights and fostering a community of learners.
 
 Stay tuned as I continuously update this space with new projects and learnings. Let’s build the future with AI! 🌟
