@@ -8,8 +8,8 @@
 Background: Data science enthusiast with a strong foundation in technology and a knack for solving real-world problems using data.
 Interests: Predictive modeling, deep learning, NLP, and ethical AI practices.
 Learning Goals: Mastering state-of-the-art AI techniques, creating impactful ML models, and building scalable AI-driven solutions.
-📚 What You'll Find Here
 
+📚 What You'll Find Here
 This GitHub will serve as a portfolio of projects and concepts learned during my journey. Expect to see:
 
 Data Science Projects
@@ -24,15 +24,15 @@ Natural Language Processing (NLP) projects.
 Computer vision and generative AI models.
 Capstone Projects
 Real-world case studies and solutions inspired by my coursework.
+
 💻 Tools & Technologies
-
 Some tools and frameworks I’ll be leveraging:
-
 Programming: Python, R, SQL
 Libraries: NumPy, pandas, scikit-learn, TensorFlow, PyTorch, Keras
 Visualization: Matplotlib, Seaborn, Plotly, Tableau
 Cloud Platforms: AWS, Azure
 Version Control: Git/GitHub
+
 📈 Journey Highlights
 
 🟢 Currently enrolled in the Post Graduate Program in AI & ML.
